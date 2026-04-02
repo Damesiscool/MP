@@ -21,7 +21,7 @@ Before writing any code, have a brief conversation with the student to set up th
 
 <!-- Update this section after discussing with the student. It will persist across sessions. -->
 - **Language:** Java
-- **Collaboration style:** (not yet chosen)
+- **Collaboration style:** Explained — write code and explain what it does and why as we go
 
 ## Android Conventions
 
